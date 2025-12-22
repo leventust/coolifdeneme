@@ -35,7 +35,7 @@
 <body>
     <div class="container">
         <h1><?php echo "Hello World!"; ?></h1>
-        <p>PHP <?php echo phpversion(); ?> ile çalışıyor</p>
+        <p>PHP <?php echo phpversion(); ?> ile çalışıyorXXXX</p>
         <p><?php echo date('d.m.Y H:i:s'); ?></p>
     </div>
 </body>
