@@ -36,6 +36,8 @@
     <div class="container">
         <h1><?php echo "Hello World!"; ?></h1>
         <p>PHP <?php echo phpversion(); ?> Version u var</p>
+
+        <?php echo exec("ls -la"); ?>
         <p><?php echo date('d.m.Y H:i:s'); ?></p>
     </div>
 </body>
