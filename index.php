@@ -44,5 +44,5 @@
 </html>
 <?php
 
-phpinfo();
+//phpinfo();
 ?>
